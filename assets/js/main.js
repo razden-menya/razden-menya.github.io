@@ -47,14 +47,6 @@
 				);
 			});
 
-		// Dropdowns.
-			$('#nav > ul').dropotron({
-				mode: 'fade',
-				noOpenerFade: true,
-				alignment: 'center',
-				detach: false
-			});
-
 		// Off-Canvas Navigation.
 
 			// Title Bar.
